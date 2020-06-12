@@ -12,9 +12,17 @@ p {
 }
 a:link {
     text-decoration-line: none;
-    color: #169f;
+    color: rgb(115, 188, 233);
     
 }
 a:visited {
     color: #169f84;
+}
+h2 {
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: bolder;
+}
+a.home {
+    color: dimgray;
 }
